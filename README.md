@@ -17,6 +17,7 @@ Please do remember these are not in any order...
 - [Uplabs](https://www.uplabs.com/)
 - [Behance](https://www.behance.net/)
 - [Site Inspire](https://www.siteinspire.com/)
+- [Pinterest](https://in.pinterest.com/search/pins/?q=ui%20inspiration)
 
 ## Resources for stock images
 - [Pixabay](https://pixabay.com/)
