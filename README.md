@@ -44,3 +44,4 @@ Please do remember these are not in any order...
 - [Absurd Design (free and paid)](https://absurd.design/)
 - [isometriclove (free and paid)](https://www.isometriclove.com/)
 - [Freevector (free and paid)](https://www.freevector.com)
+- [Pixeltrue (free and paid)](https://www.pixeltrue.com/free-illustrations)
